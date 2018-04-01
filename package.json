@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smashingmagazine/tnds.git"
+    "url": "git+https://github.com/vitalyfriedman/TNDS.git"
   },
   "author": "Vitaly Friedman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/smashingmagazine/tnds/issues"
+    "url": "https://github.com/vitalyfriedman/TNDS/issues"
   },
-  "homepage": "https://github.com/smashingmagazine/tnds#readme"
+  "homepage": "https://github.com/vitalyfriedman/TNDS#readme"
 }
